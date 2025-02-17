@@ -18,7 +18,7 @@ Ferramenta CLI em Python para upload em massa de vídeos no YouTube, organizando
 ## Como Usar
 1. **Instalação**:
    ```bash
-   git clone https://github.com/seuuser/youtube-bulk-uploader.git
+   git clone https://github.com/antonioreverso/youtube-bulk-uploader.git
    pip install -r requirements.txt
    ```
 
@@ -57,6 +57,7 @@ youtube_uploader/
 A Python CLI tool for bulk uploading videos to YouTube, automatically organizing them into playlists based on folder structure.
 
 
+
 ## Key Features
 - **Bulk Upload** hundreds of videos at once
 - **Automatic Organization** into playlists by folders
@@ -67,7 +68,7 @@ A Python CLI tool for bulk uploading videos to YouTube, automatically organizing
 ## How to Use
 1. **Installation**:
    ```bash
-   git clone https://github.com/youruser/youtube-bulk-uploader.git
+   git clone https://github.com/antonioreverso/youtube-bulk-uploader.git
    pip install -r requirements.txt
    ```
 
