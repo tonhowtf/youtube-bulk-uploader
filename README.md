@@ -56,7 +56,6 @@ youtube_uploader/
 
 A Python CLI tool for bulk uploading videos to YouTube, automatically organizing them into playlists based on folder structure.
 
-![Folder Structure Example](https://via.placeholder.com/600x200?text=Folder1/%7C+Folder2/%7C+Folder3+-+Organized+Videos)
 
 ## Key Features
 - **Bulk Upload** hundreds of videos at once
