@@ -8,8 +8,6 @@
 
 Ferramenta CLI em Python para upload em massa de vídeos no YouTube, organizando automaticamente em playlists com base na estrutura de pastas.
 
-![Estrutura de Pastas Example](https://via.placeholder.com/600x200?text=Pasta1/%7C+Pasta2/%7C+Pasta3+-+V%C3%ADdeos+Organizados)
-
 ## Funcionalidades Principais
 - **Upload em Lote** de centenas de vídeos de uma vez
 - **Organização Automática** em playlists por pastas
