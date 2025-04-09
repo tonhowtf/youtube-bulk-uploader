@@ -1,4 +1,4 @@
-# YouTube Bulk Uploader CLI 🚀
+# YouTube Bulk Uploader CLI
 
 
 
